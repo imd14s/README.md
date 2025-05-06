@@ -1,6 +1,13 @@
 
-<h1>Everson Dias</h1> 
-<p>Desenvolvedor full stack em SP com habilidades em negociação, gestão de tempo, empreendedorismo e gestão de pessoas. Cursando Engenharia de Software na Estacio em busca de oportunidades para aplicar experiência em novos campos, criar soluções inovadoras e manter-se atualizado. Aberto a colaborações. Entre em contato pelo email eversond14s@gmail.com </p>
+## 👋 Olá, eu sou o Everson!
+
+🎓 Cursando **Engenharia de Software** na Estácio.  
+🚀 Em busca de oportunidades para aplicar minha experiência, desenvolver soluções inovadoras e me manter atualizado.  
+💼 Habilidades em: **Negociação**, **Gestão de Tempo**, **Empreendedorismo** e **Gestão de Pessoas**.  
+🤝 Aberto a colaborações e conexões para criar projetos com impacto real.
+
+📫 **Entre em contato:** eversond14s@gmail.com
+
 
 <div>
 <img align="center" height="0" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
